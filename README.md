@@ -6,7 +6,7 @@
 ```
 
 
-# codewars quiz 
+# Codewars quiz 
 
 ```js 
   // this is the quiz
