@@ -1,1 +1,13 @@
-"# h8-p0-w2" 
+# Hackerank quiz
+
+```js 
+ // this is the quiz
+
+```
+
+
+# codewars quiz 
+
+```js 
+  // this is the quiz
+```
